@@ -1,0 +1,19 @@
+agm-map {
+  height: 300px;
+}
+
+
+* {
+  font-family: Lato;
+}
+
+a {
+  color: darkblue;
+}
+button.gm-ui-hover-effect {
+    display: none !important;
+}
+.gm-style-iw {
+    text-align: center;
+    font-size: 17px;
+}
